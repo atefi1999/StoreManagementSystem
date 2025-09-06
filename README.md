@@ -1,4 +1,4 @@
-# StoreManagementSystem
+# Store Management System
 
 A simple Python application to **manage products, customers, and sales** in a store.  
 The system allows adding products, registering customers, and selling products while checking customer balance.
@@ -25,8 +25,10 @@ The system allows adding products, registering customers, and selling products w
 ### 1. Run the program
 ```bash
 python store_management.py
+```
 
-2. Example Output
+### 2. Example Output
+```backtick
 Product Laptop added ✅
 Product Phone added ✅
 Customer Alice registered ✅
@@ -44,9 +46,11 @@ Customer: Bob, Balance: 500, Purchases: []
 Laptop purchased ✅
 Laptop sold to Alice ✅
 ❌ Customer balance insufficient
-
-
-📂 Project Structure
+```
+---
+## 📂 Project Structure
+```markdown
 .
 ├── store_management.py  # Main program
 └── README.md            # Project documentation
+```
