@@ -24,7 +24,7 @@ The system allows adding products, registering customers, and selling products w
 
 ### 1. Run the program
 ```bash
-python store_management.py
+python store_management_system.py
 ```
 
 ### 2. Example Output
@@ -51,6 +51,6 @@ Laptop sold to Alice ✅
 ## 📂 Project Structure
 ```markdown
 .
-├── store_management.py  # Main program
+├── store_management_system.py  # Main program
 └── README.md            # Project documentation
 ```
